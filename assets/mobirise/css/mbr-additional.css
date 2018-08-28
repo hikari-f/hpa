@@ -744,6 +744,7 @@ h6,
 }
 
 
+
 #msg-box7-1b .mbr-section-title,
 #msg-box7-1b .lead p {
   color: #fff;
@@ -827,6 +828,18 @@ h6,
 #footer1-1a P {
   color: #ffffff;
 }
+#form1-1e .form-control-label {
+  color: #ffffff;
+}
+#form1-1e .mbr-section-title SPAN {
+  color: #ffffff;
+  font-size: 46px;
+}
+#form1-1e SPAN {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
 
 
 
@@ -846,9 +859,10 @@ h6,
 #header3-1u .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
+  color: #ffffff;
 }
 #header3-1u .mbr-section-subtitle SPAN {
-  color: #c0a375;
+  color: #ffffff;
   font-size: 20px;
 }
 #header3-1u .mbr-section-subtitle {
@@ -927,7 +941,7 @@ h6,
   color: #ffffff;
 }
 #features1-1h .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #5b463f;
 }
 #features1-1h .mbr-cards-col:nth-child(odd) .card-text {
   font-family: 'Raleway', sans-serif;
@@ -950,7 +964,7 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #features1-1l .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #5b463f;
 }
 #header3-1n .mbr-section-title,
 #header3-1n .mbr-section-subtitle {
@@ -963,16 +977,17 @@ h6,
 #header3-1n .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
+  color: #ffffff;
 }
 #header3-1n .mbr-section-subtitle SPAN {
-  color: #c0a375;
+  color: #ffffff;
   font-size: 20px;
 }
 #header3-1n .mbr-section-subtitle {
   text-align: center;
 }
 #features1-1m .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #5b463f;
 }
 #header3-1p .mbr-section-title,
 #header3-1p .mbr-section-subtitle {
@@ -1064,7 +1079,7 @@ h6,
 }
 #msg-box5-1y H3 {
   font-size: 46px;
-  color: #2e2e2e;
+  color: #ffffff;
 }
 #contacts2-21 UL {
   color: #ffffff;

@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "光不動産HP1-clone",
-    "currentPage": "index.html",
+    "name": "光不動産HP1",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#5b463f",
+        "#7b5646",
         "#2e2e2e",
         "#5cb7e7",
         "#4cdcbe",
         "#31caaa",
-        "#11af8e",
-        "#84add4",
-        "#71cfb8"
+        "#11af8e"
       ]
     },
     "versionFirst": "3.12.1",
@@ -148,7 +148,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">☎光不動産</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">📞0000-00-0000 光不動産</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box7-b\">購入相談</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box8-t\">売却相談</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box8-v\">会社案内</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-k\">お問合せ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html#header3-1u\">売買物件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html#header3-1n\">賃貸物件</a></li>"
         },
         {
@@ -196,7 +196,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売るときも、買うときも『光不動産』におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br><br>心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">☎0000-11-2222</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">📞0000-11-2222</a>"
         },
         {
           "_inherit": "features4",
@@ -415,8 +415,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#5cb7e7",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -896,7 +896,7 @@
           "title": "<span style=\"font-weight: normal;\">お問合せ</span>",
           "subtitle": "<span style=\"font-style: normal;\">お気軽にご相談下さいませ。</span>",
           "form": {
-            "action": "zgines_21603z@yahoo.co.jp",
+            "action": "gines21603@yahoo.co.jp",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1227,7 +1227,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">☎光不動産</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">📞0000-00-0000 光不動産</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-15"
         },
@@ -1553,7 +1553,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">☎光不動産</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">📞0000-00-0000 光不動産</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-19"
         },
@@ -1712,6 +1712,73 @@
             }
           },
           "_anchor": "footer1-1a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">お問合せ</span>",
+          "subtitle": "<span style=\"font-style: normal;\">お気軽にご相談下さいませ。</span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">送信</a>",
+          "form": {
+            "action": "gines21603@yahoo.co.jp",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "お名前*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "電話番号"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "お問合せ内容"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-1e"
         }
       ]
     },
@@ -1734,10 +1801,11 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle SPAN": {
-              "color": "#c0a375",
+              "color": "#ffffff",
               "font-size": "20px"
             },
             ".mbr-section-subtitle": {
@@ -1748,7 +1816,7 @@
             "showMeta": true,
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
+            "bgColor": "#5b463f"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Buy real estate.</i></span>",
           "meta": "<span style=\"font-style: normal;\">『建売住宅』</span>",
@@ -1853,7 +1921,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">☎光不動産</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">📞0000-00-0000 光不動産</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1f"
         },
@@ -1889,7 +1957,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#5b463f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1997,7 +2065,7 @@
           "_anchor": "features1-1h",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#5b463f"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "font-family": "'Raleway', sans-serif",
@@ -2047,7 +2115,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#5b463f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -2055,7 +2123,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2143,7 +2211,7 @@
           "_anchor": "features1-1l",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#5b463f"
             }
           }
         },
@@ -2159,10 +2227,11 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle SPAN": {
-              "color": "#c0a375",
+              "color": "#ffffff",
               "font-size": "20px"
             },
             ".mbr-section-subtitle": {
@@ -2173,7 +2242,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
+            "bgColor": "#5b463f"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Buy real estate.</i></span>",
           "meta": "<span style=\"font-style: normal;\">『中古住宅』</span>",
@@ -2190,7 +2259,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#5b463f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -2286,7 +2355,7 @@
           "_anchor": "features1-1m",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#5b463f"
             }
           }
         },
@@ -2426,7 +2495,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">☎光不動産</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:0545000000\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">📞0000-00-0000 光不動産</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1v"
         },
@@ -2436,14 +2505,14 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "55",
+            "imageSize": "59",
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/background-1440497-1280-1280x904.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#5b463f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2487,7 +2556,7 @@
             },
             "H3": {
               "font-size": "46px",
-              "color": "#2e2e2e"
+              "color": "#ffffff"
             }
           }
         },
@@ -2625,7 +2694,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#5b463f",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2663,7 +2732,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#5b463f",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -2672,7 +2741,7 @@
           "subtitle": "<span style=\"font-style: normal;\">物件NOをご記入下さい。</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">送信</a>",
           "form": {
-            "action": "zgines_21603z@yahoo.co.jp",
+            "action": "gines21603@yahoo.co.jp",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
