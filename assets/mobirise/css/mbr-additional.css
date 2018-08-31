@@ -861,7 +861,7 @@ h6,
 #header3-1u .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
-  color: #ffffff;
+  color: #faaf40;
 }
 #header3-1u .mbr-section-subtitle SPAN {
   color: #ffffff;
@@ -943,7 +943,7 @@ h6,
   color: #ffffff;
 }
 #features1-1h .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #5b463f;
+  background-color: #7e9b9f;
 }
 #features1-1h .mbr-cards-col:nth-child(odd) .card-text {
   font-family: 'Raleway', sans-serif;
@@ -969,7 +969,7 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #features1-1l .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #5b463f;
+  background-color: #7e9b9f;
 }
 #header3-1n .mbr-section-title,
 #header3-1n .mbr-section-subtitle {
@@ -1083,7 +1083,7 @@ h6,
   text-align: left;
 }
 #msg-box5-1y H3 {
-  font-size: 46px;
+  font-size: 36px;
   color: #2e2e2e;
 }
 #contacts2-21 UL {

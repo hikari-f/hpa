@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#bddee2",
+        "#9cbec2",
         "#71cfb8",
         "#789161",
         "#f2ffe6",
         "#5b463f",
-        "#7b5646",
-        "#2e2e2e",
-        "#5cb7e7"
+        "#7b5646"
       ]
     },
     "versionFirst": "3.12.1",
@@ -196,7 +196,7 @@
             "overlayColor": "#c0a375",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">テストページ<br>家・土地を</span>売るときも<span style=\"font-weight: normal;\">、</span>買うときも光不動産<span style=\"font-weight: normal;\">におまかせ下さい。</span>",
+          "title": "<span style=\"font-weight: normal;\">テストページ<br>家・土地を売るときも、買うときも光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br><br>心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">📞0000-11-2222</a>"
         },
@@ -1125,7 +1125,7 @@
               "active": true
             }
           },
-          "title": "不動産購入相談<br><br>あなたがみつけたい家も<br>きっとあなたに会いたい",
+          "title": "不動産購入相談<br><br><span style=\"font-weight: normal;\">あなたがみつけたい家も<br>きっとあなたに会いたい</span>",
           "text": "物件購入をお考えの方へ\n<br>ご希望の物件をお探しします\n<br>\n<br>「どんな家に住みたいか」はもちろん、\n<br>「どんなくらし方をしたいか」を存分にぶつけて下さい。\n<br>\n<br>「子育てファミリーのくらし」・「シングルウーマンのくらし」\n<br>・「親子２世帯のくらし」・「夫婦二人のくらし」\n<br>新しい理想のくらしを一緒に作りあげたいと考えています\n<br>\n<br>ご希望に合わせた物件選択、住宅ローンの資金計画\n<br>安心して快適に住む事ができるための提案を\n<br>お約束いたします 。<br>\n<br>未来へのくらしづくりのお手伝いをさせてください。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -1804,7 +1804,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-section-subtitle SPAN": {
               "color": "#ffffff",
@@ -1818,7 +1818,7 @@
             "showMeta": true,
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#5b463f"
+            "bgColor": "#7e9b9f"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Buy real estate.</i></span>",
           "meta": "<span style=\"font-style: normal;\">『建売住宅』</span>",
@@ -1959,7 +1959,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#5b463f",
+            "columnsColor": "#7e9b9f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -2067,7 +2067,7 @@
           "_anchor": "features1-1h",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#5b463f"
+              "background-color": "#7e9b9f"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "font-family": "'Raleway', sans-serif",
@@ -2120,7 +2120,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#5b463f",
+            "columnsColor": "#7e9b9f",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -2216,7 +2216,7 @@
           "_anchor": "features1-1l",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#5b463f"
+              "background-color": "#7e9b9f"
             }
           }
         },
@@ -2510,14 +2510,14 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "56",
+            "imageSize": "55",
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/background-1440497-1280-1280x904.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#bddee2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2560,7 +2560,7 @@
               "text-align": "left"
             },
             "H3": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#2e2e2e"
             }
           }
