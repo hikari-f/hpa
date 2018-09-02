@@ -169,7 +169,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "30px"
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Lora', serif",
@@ -196,7 +196,7 @@
             "overlayColor": "#c0a375",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">テストページ</span><br>家・土地を売るときも、買うときも光不動産におまかせ下さい。",
+          "title": "<span style=\"font-weight: normal;\">テストページ<br>家・土地を売るときも、買うときも光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br><br>心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">📞0000-11-2222</a>"
         },
