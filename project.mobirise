@@ -169,7 +169,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Lora', serif",
