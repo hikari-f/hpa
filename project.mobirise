@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1128,7 +1128,7 @@
             }
           },
           "title": "不動産購入相談<br><br><span style=\"font-weight: normal;\">あなたがみつけたい家も<br>きっとあなたに会いたい</span>",
-          "text": "物件購入をお考えの方へ\n<br>ご希望の物件をお探しします\n<br>\n<br>「どんな家に住みたいか」はもちろん、\n<br>「どんなくらし方をしたいか」を存分にぶつけて下さい。\n<br>\n<br>「子育てファミリーのくらし」・「シングルウーマンのくらし」\n<br>・「親子２世帯のくらし」・「夫婦二人のくらし」\n<br>新しい理想のくらしを一緒に作りあげたいと考えています\n<br>\n<br>ご希望に合わせた物件選択、住宅ローンの資金計画\n<br>安心して快適に住む事ができるための提案を\n<br>お約束いたします 。<br>\n<br>未来へのくらしづくりのお手伝いをさせてください。",
+          "text": "物件購入をお考えの方へ 、ご希望の物件をお探しします。<br><br>「どんな家に住みたいか」はもちろん、「どんなくらし方をしたいか」を存分にぶつけて下さい。「子育てファミリーのくらし」・「シングルウーマンのくらし」・「親子２世帯のくらし」・「夫婦二人のくらし」新しい理想のくらしを一緒に作りあげたいと考えています。&nbsp;<br><br>ご希望に合わせた物件選択、住宅ローンの資金計画、安心して快適に住む事ができるための提案をお約束いたします、未来へのくらしづくりのお手伝いをさせてください。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1417,7 +1417,7 @@
             "inverse": true,
             "imageSize": "58",
             "paddingTop": "6",
-            "paddingBottom": "4",
+            "paddingBottom": "6",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bike-1280x853.jpg",
             "parallax": true,
@@ -1454,7 +1454,7 @@
             }
           },
           "title": "不動産売却相談",
-          "text": "不動産売却をお考えの方へ\n<br>納得の価格で売却できるよう\n<br>独自のアプローチで販売活動をしています\n<br>\n<br>使っていない土地がある・相続したが管理が大変で悩んでいる<br>・住宅ローンが大変・生活状況が変わり売却を検討している・<br>住み替え・転勤等&nbsp;<br>お客様のお悩みや、ご希望をお聞きして\n<br>安心して物件を販売していただくために<br>「お客様へ最善の提案」を心がけております\n<br>まずはご相談ください。&nbsp;<br>\n<br>【無料査定】　【秘密厳守】",
+          "text": "不動産売却をお考えの方へ、納得の価格で売却できるよう独自のアプローチで販売活動をしています。&nbsp;<br>\n<br>使っていない土地がある・相続したが管理が大変で悩んでいる・住宅ローンが大変・生活状況が変わり売却を検討している・住み替え・転勤等お客様のお悩みや、ご希望をお聞きして、安心して物件を販売していただくために『お客様へ最善の提案』を心がけております、まずはご相談ください。<br><br>【無料査定】　【秘密厳守】",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
