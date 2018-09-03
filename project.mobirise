@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2076,7 +2076,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#efefef"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "16px"
@@ -2219,6 +2220,9 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#7e9b9f"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#efefef"
             }
           }
         },
@@ -2589,7 +2593,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1226-1179x813-800x552.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "5DK",
+                "caption": "5DK　「1号棟」",
                 "active": true
               },
               {

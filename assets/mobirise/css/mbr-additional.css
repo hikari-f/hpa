@@ -952,6 +952,7 @@ h6,
 }
 #features1-1h .mbr-cards-col:nth-child(odd) .card-subtitle {
   font-size: 16px;
+  color: #efefef;
 }
 #features1-1h .mbr-cards-col:nth-child(even) .card-subtitle {
   font-size: 16px;
@@ -972,6 +973,9 @@ h6,
 }
 #features1-1l .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
+}
+#features1-1l .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #efefef;
 }
 #header3-1n .mbr-section-title,
 #header3-1n .mbr-section-subtitle {
