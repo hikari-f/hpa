@@ -1,14 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -510,14 +511,15 @@ h6,
   font-family: 'Lora', serif;
 }
 #header1-2 .btn {
-  font-size: 19px;
+  font-size: 16px;
   font-family: 'Merriweather', serif;
 }
 #header1-2 .mbr-section-title SPAN {
   font-size: 25px;
+  font-family: 'Roboto', sans-serif;
 }
 #header1-2 .mbr-section-lead SPAN {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
 }
 #features7-s .card-subtitle {
   color: #bcbcbc;

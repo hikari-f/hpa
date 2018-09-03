@@ -164,16 +164,18 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".btn": {
-              "font-size": "19px",
+              "font-size": "16px",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-lead SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "header1-2",
