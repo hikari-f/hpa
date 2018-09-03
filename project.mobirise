@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -407,7 +407,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/winter-garden-2721404-1920-1920x1280.jpg",
@@ -445,7 +445,7 @@
             }
           },
           "title": "不動産購入相談",
-          "text": "物件購入をお考えの方へ 、ご希望の物件をお探しします。&nbsp;<br>\n<br>「どんな家に住みたいか」はもちろん、\n「どんなくらし方をしたいか」を存分にぶつけて下さい。\n<br>\n<br>「子育てファミリーのくらし」・「シングルウーマンのくらし」・「親子２世帯のくらし」・「夫婦二人のくらし」新しい理想のくらしを一緒に作りあげたいと考えています。&nbsp;<br>\n<br>ご希望に合わせた物件選択、住宅ローンの資金計画、安心して快適に住む事ができるための提案を、お約束いたします 。<br>\n<br>まずはお気軽にご相談ください。",
+          "text": "物件購入をお考えの方へ 、ご希望の物件をお探しします。&nbsp;<br>\n<br>「どんな家に住みたいか」はもちろん、「どんなくらし方をしたいか」を存分にぶつけて下さい。「子育てファミリーのくらし」・「シングルウーマンのくらし」・「親子２世帯のくらし」・「夫婦二人のくらし」新しい理想のくらしを一緒に作りあげたいと考えています。&nbsp;<br>\n<br>ご希望に合わせた物件選択、住宅ローンの資金計画、安心して快適に住む事ができるための提案をお約束いたします、まずはお気軽にご相談ください。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">詳　細</a>"
         },
         {
@@ -647,7 +647,7 @@
             }
           },
           "title": "資産活用",
-          "text": "物件オーナーの方へ、お客様の資産価値を高めるため、不動産物件の有効活用について、独自の視点とアイデアでプロデュース。所有物件の活用、空家対策、空室対策など、お客様一人ひとりに合わせたサポートをしております、お気軽にご相談下さい。",
+          "text": "物件オーナーの方へ、お客様の資産価値を高めるため、不動産物件の有効活用について、独自の視点とアイデアでプロデュース。所有物件の活用、空家対策、空室対策などお客様一人ひとりに合わせたサポートをしております、お気軽にご相談下さい。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
