@@ -164,7 +164,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".btn": {
-              "font-size": "16px",
+              "font-size": "17px",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
@@ -198,7 +198,7 @@
             "overlayColor": "#c0a375",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売るときも、買うときも光不動産におまかせ下さい。</span>",
+          "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">📞0000-00-0000</a>"
         },
@@ -381,7 +381,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Message</span>",
-          "text": "<p></p><p>\n「理想の物件を探す」 始めてみるとなかなか長い道のりです、<span style=\"font-size: 1.07rem;\">光不動産は、売買から賃貸</span><span style=\"font-size: 1.07rem;\">さらには資産活用までもサポート、</span><span style=\"font-size: 1.07rem;\">あらゆる物件から、あなただけの理想の暮らしを、一緒につくりあげていきましょう。</span></p>",
+          "text": "<p></p><p>\n「理想の物件を探す」 始めてみるとなかなか長い道のりです、<span style=\"font-size: 1.07rem;\">穏やかにシンプルに暮らしていただけるサポートを大切にしております。</span><span style=\"font-size: 1.07rem;\">あらゆる物件から、あなただけの理想の暮らしを、一緒につくりあげていきましょう。</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -445,8 +445,8 @@
             }
           },
           "title": "不動産購入相談",
-          "text": "物件購入をお考えの方へ\n<br>ご希望の物件をお探しします\n<br>\n<br>「どんな家に住みたいか」はもちろん、\n<br>「どんなくらし方をしたいか」を存分にぶつけて下さい。\n<br>\n<br>「子育てファミリーのくらし」・「シングルウーマンのくらし」\n<br>・「親子２世帯のくらし」・「夫婦二人のくらし」\n<br>新しい理想のくらしを一緒に作りあげたいと考えています\n<br>\n<br>ご希望に合わせた物件選択、住宅ローンの資金計画\n<br>安心して快適に住む事ができるための提案を\n<br>お約束いたします 。<br>\n<br>まずはお気軽にご相談ください。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "物件購入をお考えの方へ 、ご希望の物件をお探しします。&nbsp;<br>\n<br>「どんな家に住みたいか」はもちろん、\n「どんなくらし方をしたいか」を存分にぶつけて下さい。\n<br>\n<br>「子育てファミリーのくらし」・「シングルウーマンのくらし」・「親子２世帯のくらし」・「夫婦二人のくらし」新しい理想のくらしを一緒に作りあげたいと考えています。&nbsp;<br>\n<br>ご希望に合わせた物件選択、住宅ローンの資金計画、安心して快適に住む事ができるための提案を、お約束いたします 。<br>\n<br>まずはお気軽にご相談ください。",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">詳　細</a>"
         },
         {
           "_styles": {
@@ -508,7 +508,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/house-3050112-1280-1280x856.jpg",
@@ -521,7 +521,7 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -546,8 +546,8 @@
             }
           },
           "title": "不動産売却相談",
-          "text": "不動産売却をお考えの方へ\n<br>納得の価格で売却できるよう\n<br>独自のアプローチで販売活動をしています\n<br>\n<br>使っていない土地がある・相続したが管理が大変で悩んでいる<br>・住宅ローンが大変・生活状況が変わり売却を検討している・<br>住み替え・転勤等&nbsp;<br>お客様のお悩みや、ご希望をお聞きして\n<br>安心して物件を販売していただくために<br>「お客様へ最善の提案」を心がけております\n<br>まずはご相談ください。&nbsp;<br>\n<br>【無料査定】　【秘密厳守】",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "不動産売却をお考えの方へ、納得の価格で売却できるよう、独自のアプローチで販売活動をしています。&nbsp;<br>\n<br>使っていない土地がある・相続したが管理が大変で悩んでいる・住宅ローンが大変・生活状況が変わり売却を検討している・住み替え・転勤等、お客様のお悩みや、ご希望をお聞きして、安心して物件を販売していただくために『お客様へ最善の提案』を心がけております、まずはご相談ください。<br><br>【無料査定】　【秘密厳守】",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">詳　細</a>"
         },
         {
           "_styles": {
@@ -609,7 +609,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "7",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/houses-1623320-1280-1280x905.jpg",
@@ -647,7 +647,7 @@
             }
           },
           "title": "資産活用",
-          "text": "物件オーナーの方へ<br>お客様の資産価値を高めるため\n<br>不動産物件の有効活用について<br>独自の視点とアイデアでプロデュース\n<br>所有物件の活用、空家対策、空室対策や不動産経営戦略\n<br>お客様一人ひとりに合わせたサポートをしております\n<br>お気軽にご相談下さい。",
+          "text": "物件オーナーの方へ、お客様の資産価値を高めるため、不動産物件の有効活用について、独自の視点とアイデアでプロデュース。所有物件の活用、空家対策、空室対策など、お客様一人ひとりに合わせたサポートをしております、お気軽にご相談下さい。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -739,7 +739,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p><span style=\"font-style: normal;\">【不動産プロデュース】</span></p><p><span style=\"font-style: normal;\">プロジェクト用物件探しから、お客様のコンセプトや利用目的に合せた、魅力ある物件づくりをサポート。また、中古物件を最新のライフスタイルにリノベーション。敷地をより使いやすくする為の、造成計画等もご提案しております、お気軽にご相談ください。</span></p>",
+              "text": "<p><span style=\"font-style: normal;\">【不動産プロデュース】</span></p><p><span style=\"font-style: normal;\">プロジェクト用物件探しから、お客様のコンセプトや、利用目的に合せた魅力ある物件づくりをサポート。また、中古物件を最新のライフスタイルにリノベーション。敷地をより使いやすくする為の、造成計画等もご提案しております、お気軽にご相談ください。</span></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
