@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -609,7 +609,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": "7",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/houses-1623320-1280-1280x905.jpg",
@@ -2760,7 +2760,7 @@
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "お名前*"
+                "customTitle": "物件No*"
               },
               "email": {
                 "visible": true,
@@ -2770,7 +2770,7 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "物件NO"
+                "customTitle": "お名前*"
               },
               "message": {
                 "title": "Message",
