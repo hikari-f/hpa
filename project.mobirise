@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -609,8 +609,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "5",
-            "paddingBottom": "7",
+            "paddingTop": "3",
+            "paddingBottom": "6",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/houses-1623320-1280-1280x905.jpg",
             "parallax": true,
