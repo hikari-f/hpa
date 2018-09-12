@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/couch-1835923-1280-1280x768.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1a0002-009001-m-1280x960.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -195,8 +195,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#c0a375",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#5b463f",
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
@@ -406,11 +406,11 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/winter-garden-2721404-1920-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/top3-1280x853.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -511,7 +511,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/house-3050112-1280-1280x856.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/top4-1280x853.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -691,7 +691,7 @@
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#2e2e2e"
             },
             ".mbr-author-name": {
               "color": "#ccc"
@@ -763,13 +763,13 @@
             "count": 3,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/empire-state-building-415479-1280-1280x937.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf1320-1-2000x1500.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
             "overlay": true,
-            "overlayColor": "#5cb7e7",
+            "overlayColor": "#5b463f",
             "overlayOpacity": "0.5"
           },
           "title": "会社案内",
