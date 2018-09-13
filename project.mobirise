@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f2f2f2",
         "#2e2e2e",
         "#bddee2",
         "#9cbec2",
         "#71cfb8",
         "#789161",
-        "#f2ffe6",
-        "#5b463f"
+        "#f2ffe6"
       ]
     },
     "versionFirst": "3.12.1",
@@ -170,8 +170,8 @@
             },
             ".mbr-section-title SPAN": {
               "font-size": "25px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Lora', serif",
@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1a0002-009001-m-1280x960.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/top1-1280x900.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -195,12 +195,12 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#5b463f",
+            "overlayColor": "#2e2e2e",
             "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">📞0000-00-0000</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:0000000000\" data-toolbar=\"-mbrBtnMove\">Hikari Real Estate</a>"
         },
         {
           "_inherit": "features4",
@@ -767,7 +767,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/dscf1320-1-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#5b463f",
             "overlayOpacity": "0.5"
@@ -810,7 +810,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -858,7 +858,7 @@
             },
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           }
         },
         {
