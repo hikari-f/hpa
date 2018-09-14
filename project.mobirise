@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#0b4036",
+        "#08352c",
         "#f2f2f2",
         "#2e2e2e",
         "#bddee2",
         "#9cbec2",
-        "#71cfb8",
-        "#789161",
-        "#f2ffe6"
+        "#71cfb8"
       ]
     },
     "versionFirst": "3.12.1",
@@ -195,8 +195,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#0b4036",
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
