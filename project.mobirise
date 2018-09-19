@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "光不動産HP1",
+    "name": "光不動産HP1-clone300914",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#71cfb8",
+        "#0e2f53",
         "#0b4036",
         "#08352c",
         "#f2f2f2",
         "#2e2e2e",
-        "#bddee2",
-        "#9cbec2",
-        "#71cfb8"
+        "#bddee2"
       ]
     },
     "versionFirst": "3.12.1",
@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/top1-1280x900.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/building-1543498-1280-1280x960.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -195,7 +195,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#0b4036",
+            "overlayColor": "#0e2f53",
             "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
