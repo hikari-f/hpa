@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "光不動産HP1-clone300914",
+    "name": "光不動産HP1-clone300920",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#71cfb8",
         "#0e2f53",
         "#0b4036",
         "#08352c",
         "#f2f2f2",
         "#2e2e2e",
-        "#bddee2"
+        "#bddee2",
+        "#9cbec2"
       ]
     },
     "versionFirst": "3.12.1",
@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/building-1543498-1280-1280x960.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/benches-186309-1280-1280x853.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -195,8 +195,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#0e2f53",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.7"
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
