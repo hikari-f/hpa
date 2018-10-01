@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/condominium-690086-1280-2-1280x721.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20180916-131114-6-1280x960.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -195,8 +195,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#0e2f53",
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">テストページ</span><br><span style=\"font-weight: normal;\">家・土地を売る時も、買う時も光不動産におまかせ下さい。</span>",
           "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">心地よい場所で快適に暮らす<br>お客様に合わせた魅力的な物件をご提案いたします。<br></span><br>",
