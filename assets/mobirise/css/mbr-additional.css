@@ -844,6 +844,19 @@ h6,
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
+#content5-2a .mbr-section-title,
+#content5-2a p {
+  color: #fff;
+}
+#content5-2a .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+#content5-2a P {
+  text-align: center;
+  font-size: 22px;
+  color: #ffffff;
+}
 
 
 
@@ -1110,6 +1123,19 @@ h6,
   color: #2e2e2e;
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
+}
+#content5-29 .mbr-section-title,
+#content5-29 p {
+  color: #fff;
+}
+#content5-29 .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+#content5-29 P {
+  text-align: center;
+  font-size: 22px;
+  color: #ffffff;
 }
 #footer1-1w P {
   color: #ffffff;

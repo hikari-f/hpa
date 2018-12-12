@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "光不動産HP1-clone300920",
+    "name": "光不動産HP1-clone301129",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -31,8 +31,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 81,
-    "versionPublish": "4.8.1",
+    "uniqCompNum": 83,
+    "versionPublish": "4.8.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/b7ca65646b7b9495c46f43092661c15d-m3-1-1902x996.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/blonde-1867768-1283-1280x853.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -739,7 +739,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p><span style=\"font-style: normal;\">【不動産プロデュース】</span></p><p><span style=\"font-style: normal;\">プロジェクト用物件探しから、お客様のコンセプトや、利用目的に合せた魅力ある物件づくりをサポート。また、中古物件を最新のライフスタイルにリノベーション。敷地をより使いやすくする為の、造成計画等もご提案しております、お気軽にご相談ください。</span></p>",
+              "text": "<p><span style=\"font-style: normal;\">【不動産プロデュース】</span></p><p><span style=\"font-style: normal;\">プロジェクト用物件探しから、お客様のコンセプトや、利用目的に合せた魅力ある物件づくりをサポート。また、中古物件を最新のライフスタイルにリノベーション。敷地をより使いやすくする為の、造成計画等</span><span style=\"font-style: normal; font-size: 1.125rem;\">もご提案しております、お気軽にご相談ください。</span></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -1728,7 +1728,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0e2f53",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1783,6 +1783,47 @@
             }
           },
           "_anchor": "form1-1e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "22px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0e2f53",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "電話でのお問合せ　0000-00-0000",
+          "caption": "<p>光不動産</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2a"
         }
       ]
     },
@@ -2798,6 +2839,47 @@
             }
           },
           "_anchor": "form1-22"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "22px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "../../app/themes/mobirise3/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "電話でのお問合せ　0000-00-0000",
+          "caption": "<p>光不動産</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-29"
         },
         {
           "_params": {
