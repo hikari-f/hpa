@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "光不動産HP1-clone301129",
+    "name": "光不動産HP1-clone301212",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -186,7 +186,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blonde-1867768-1283-1280x853.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/blonde-1867768-1285-1280x853.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
