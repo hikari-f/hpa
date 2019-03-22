@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 83,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2073,7 +2073,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2223,7 +2223,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2370,7 +2370,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2621,7 +2621,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "showText": true,
             "filter": false,
             "images": [
@@ -2633,9 +2633,32 @@
                 "image": "@PROJECT_PATH@/assets/images/1226-1179x813.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1226-1179x813-800x552.jpg",
                 "alt": "",
-                "title": "",
-                "caption": "5DK　「1号棟」",
+                "title": "間取",
+                "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
@@ -2646,8 +2669,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
@@ -2669,11 +2691,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dscf1334sizes-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "S size<br>",
+                "caption": "s",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2681,11 +2703,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dscf1335sizem-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "M size",
+                "caption": "M",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2693,7 +2715,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dscf1336sizeauto-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Auto size",
+                "caption": "Auto",
                 "active": false
               }
             ]
@@ -2704,7 +2726,7 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery3",
-          "_anchor": "gallery3-1z"
+          "_anchor": "gallery3-2b"
         },
         {
           "_params": {
