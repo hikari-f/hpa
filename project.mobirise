@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "光不動産HP1-clone301212",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 83,
-    "versionPublish": "4.8.8",
+    "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -2032,7 +2032,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20180108-111809-600x800.png",
+              "src": "@PROJECT_PATH@/assets/images/dscf1334sizes-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2043,7 +2043,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dscf1335sizem-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2054,7 +2054,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20180108-111809-600x800.png",
+              "src": "@PROJECT_PATH@/assets/images/dscf1336sizeauto-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2073,7 +2073,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2082,13 +2082,13 @@
           "title1": "富士宮市",
           "subtitle1": "&nbsp;全47棟",
           "caption1": "4LD<br>土地/165.29㎡～<br>建物/95.57㎡～<br>小学校区/中学校区<br><br>0000万円～.",
-          "title2": "富士宮",
+          "title2": "S<br>",
           "subtitle2": "5DK 1棟",
           "caption2": "5LDK<br>土地60坪～<br>建物30坪～<br>小学校区/中学校区<br><br>0000万円.",
-          "title3": "Web Fonts",
+          "title3": "M",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "title4": "Auto",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -2223,7 +2223,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2370,7 +2370,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2635,62 +2635,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "5DK　「1号棟」",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -2701,7 +2646,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2713,6 +2659,42 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscf1334sizes-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf1334sizes-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "S size<br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscf1335sizem-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf1335sizem-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "M size",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscf1336sizeauto-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf1336sizeauto-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Auto size",
+                "active": false
               }
             ]
           },
